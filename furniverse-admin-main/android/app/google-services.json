@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015138798558",
+    "project_id": "furniverse-5f170",
+    "storage_bucket": "furniverse-5f170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015138798558:android:077052b244b188d892ab4f",
+        "android_client_info": {
+          "package_name": "com.example.furniverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7YHZIEunyGMkywcqDMbqmme9gyecIUtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015138798558:android:bc8a4ed76ab2af5192ab4f",
+        "android_client_info": {
+          "package_name": "com.example.furniverse_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7YHZIEunyGMkywcqDMbqmme9gyecIUtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
